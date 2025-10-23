@@ -154,16 +154,8 @@ Results are saved in the `results/` directory as CSV files for further analysis.
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Based on UC Berkeley's AI course materials
 - Original implementations by John DeNero and Dan Klein
 - Student implementations and enhancements by various contributors
-
-## Contact
-
-For questions or suggestions, please open an issue or contact the maintainers.
